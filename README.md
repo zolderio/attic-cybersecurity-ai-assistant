@@ -4,7 +4,7 @@ This is a proof of concept for an AI assistant that can help with cybersecurity 
 
 ## Technical blog
 We published a technical blog detailing the project here: 
-- <TODO>
+- https://atticsecurity.com/blog/alert/building-a-cybersecurity-ai-assistant/
 
 ## Support
 This project is supported by SIDNfonds:
